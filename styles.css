@@ -1,0 +1,14 @@
+.cell {
+    width: 10px;
+    height: 10px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+.row {
+    margin-bottom: 2px;
+}
+
+#automato {
+    margin: 30px;
+}
